@@ -10,7 +10,7 @@
     "formik": "^1.5.8",
     "history": "^4.10.1",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "notistack": "^0.9.5",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
